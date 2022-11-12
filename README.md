@@ -6,6 +6,6 @@ Put your bot token at the end of the code. Replace BOT_TOKEN with it.
 Now run the code and it should work!
 
 # My socials n stuff
-Discord: luwi'#2202
-Replit: luwii 
+Discord: luwi'#2202               
+Replit: luwii
 *(I post most of my projects here)*
